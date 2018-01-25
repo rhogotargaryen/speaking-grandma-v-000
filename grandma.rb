@@ -2,6 +2,16 @@
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
+def speak_to_grandma(phrase)
+  shout = phrase.upcase
+  whisper = phrase.downcase
+  special == 'I LOVE YOU GRANDMA!'
+  if phrase == shout
+    puts "NO, NOT SINCE 1938!"
+  elsif phrase == whisper
+    
+    
+    
 # unless you shout it (type in all capitals).
 
 # If you shout, she can hear you (or at least she thinks so) 
