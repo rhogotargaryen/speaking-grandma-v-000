@@ -6,7 +6,7 @@ def speak_to_grandma(phrase)
   shout = phrase.upcase
   special = 'I LOVE YOU GRANDMA!'
   if phrase == shout
-    puts "NO, NOT SINCE 1938!"
+    return "NO, NOT SINCE 1938!"
   elsif phrase == special
     puts  'I LOVE YOU TOO PUMPKIN!'
   else
