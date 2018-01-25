@@ -7,7 +7,7 @@ def speak_to_grandma(phrase)
   special = 'I LOVE YOU GRANDMA!'
   if phrase == shout
     return "NO, NOT SINCE 1938!"
-  elsif phrase == special
+  elsif phrase == 'I LOVE YOU GRANDMA!'
     return  'I LOVE YOU TOO PUMPKIN!'
   else
     return 'HUH?! SPEAK UP, SONNY!'
